@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lordpirossi
-- 👀 I’m interested in  aprender cada vez mais, proporcionando  conhecimentos e compartilhando o que aprendo.
-- 🌱 I’m currently learning programação em linguagem Python , Java e SQL
+- 👀 Estou interessado em aprender cada vez mais, proporcionando  conhecimentos e compartilhando o que aprendo.
+- 🌱 Estou apredendendo programação em linguagem Python , Java e SQL
 - 💞️ I’m looking to collaborate on varios projetos que visam facilitar nossas vidas e ajudar o proximo
 - 📫 How to reach me  no e-mail: luiz_piross@hotmail.com; ou perfil  do instagram : luiz_guilhermepirossi
 
